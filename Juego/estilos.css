@@ -1,0 +1,12 @@
+#badge{
+    padding: .4em .9em;
+    font-size: 80%;
+}
+
+.rounded {
+    display: inline-block;
+    width: 220px;
+    height: 120px;
+    margin: 6px;
+    background-color: white;
+  }
